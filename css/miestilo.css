@@ -1,0 +1,257 @@
+
+@media (min-width:  1200px){
+
+#submit2{
+	left: -56px;}
+
+
+#submit{
+	left: 356px;}
+
+
+
+}
+
+@media (max-width: 767px){
+#submit2{
+	left: 0px;
+}
+
+#submit{
+	left: 50%;
+}
+
+
+
+#amount_gross{
+	width: 330px;
+}
+
+#feespaypal{
+	width: 330px;
+}
+
+#montorecibir{
+	width: 330px;
+}
+#cbu_number{
+	width: 330px;
+}
+
+#account_number{
+	width: 330px;
+}
+
+#account_owner{
+	width: 330px;
+}
+
+#account_owner_dni{
+	width: 330px;
+}
+
+#paypal_email{
+	width: 330px;
+}
+
+#tracking_email{
+		width: 330px;
+}
+
+.welcome-block h2{
+	font-size: 17px;
+}
+
+#botonarriba{
+	left: -42px;
+}
+
+}
+
+
+#submit{
+	margin-left: -90px;
+}
+
+
+	.welcome-block h1{
+		text-align: center;
+	}
+
+
+#service {
+	background-color: #8dc73f 
+}
+
+
+
+
+	.padd{
+		padding:75px 0;
+	}
+	.pricing .heading{
+		margin-bottom:35px;
+	}
+	.text-center{
+		text-align: center;
+	}
+	.pricing .heading h2{
+		margin-bottom:15px;
+	}
+	.bor{
+		background:#609cec;
+		width: 70px;
+		height: 3px;
+		margin: 5px auto;
+	}
+
+.pricing .heading p{
+	margin-top: 10px;
+
+}
+.heading p{
+	font-size:15px;
+	line-height:30px;
+	max-width:500px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.formulario{
+	font-size:15px;
+	line-height:30px;
+	max-width:400px;
+	margin:0 auto;
+	
+}
+
+.formulario input { 
+	height: 35px;
+	width: 290px;
+	padding-left: 5px;
+	font-size: 14px;
+	outline: none;
+ }
+ 
+ .formulario label{ font-weight:normal}
+ .centrar{margin:0 auto;
+	text-align:center;} 
+	
+	#jappix_mini {
+ 	margin-bottom: 20px;
+ 	} 
+	
+#success, 
+#error{
+    display:none;
+}
+
+
+#pricing{
+	background-color: #E0F8E0;
+}
+	
+
+#testimonials h1{
+	color: #fff;font-size: 50px;font-weight: bold;
+}	
+
+
+
+.about2 .about2-heading {
+  background: #213646 url("../img/overlay.png") repeat;
+  background-size: 252px 230px;
+}
+
+.about2 .about2-heading{
+	padding:50px 0px;
+	margin-bottom:50px;
+}
+
+.about2 .about2-heading h2{
+	color:#fff;
+	font-weight:600;
+	font-size:60px;
+	text-transform:uppercase;
+	text-shadow:0px 0px 3px rgba(0,0,0,0.3);
+}	
+.about2 .about2-logo h3{
+	font-size:40px;
+	line-height:20px;
+	font-weight:600;
+	color:#666;
+}
+
+
+.about2 .about2-logo p{
+	font-size:16px;
+	line-height:30px;
+	margin:20px auto;
+	max-width:500px;
+	color:#999;
+}
+
+
+.about2 .about2-inner {
+  background: #609cec url("../img/overlay.png") repeat;
+  background-size: 252px 230px;
+}
+.about2 .about2-inner .per {
+  color: #609cec;
+}
+
+
+.about2-content .about2-inner {
+	margin-top: 90px;
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+
+.about2-content .about2-inner h2{
+	color:#fff;
+	font-size:30px;
+	font-weight:600;
+	line-height:40px;
+}
+
+.about2-content .about2-inner p{
+	color:#fff;
+	font-size:17px;
+	line-height:30px;
+	max-width:600px;
+	margin:0 auto;
+}
+
+.about2-content .about2-item {
+	max-width: 300px;
+	margin: 0 auto;
+	margin-top: 40px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.about2-content .about2-item .about2-circle {
+	width: 130px;
+	height: 130px;
+	margin: 0 auto;
+	background:#fff;
+	border-radius: 100px;
+	box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+	color:#444;
+	font-size:40px;
+	line-height:130px;
+}
+
+.about2-content .about2-item .about2-circle  .per{
+	font-size:30px;
+	margin-left:2px;
+}
+
+.about2-content .about2-item h5 { 
+	margin-top: 20px;
+	font-size: 22px; 
+	color: #fff;
+}
+
+
+
